@@ -12,3 +12,6 @@ How to run History app
 
 Here is a link to a youtube video showing the apps functions and what you will experiance when running the app. 
 https://youtu.be/-V1rRiqang8 
+
+Here is a detailed report of the app. 
+https://1drv.ms/w/c/a2a83314d93fec54/ESaaOYeI0SJKgxUx5NYCSZ0BcD9EBpdIoDbku4HEpucQTg?e=lzRtsN 
